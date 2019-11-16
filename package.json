@@ -31,5 +31,12 @@
   },
   "engines": {
     "node": ">=4.2.0"
+  },
+  "dependencies": {
+    "bespoke-backdrop": "^1.0.0",
+    "bespoke-keys": "^1.1.0",
+    "bespoke-progress": "^1.0.0",
+    "bespoke-theme-build-wars": "^1.0.1",
+    "bespoke-touch": "^1.0.0"
   }
 }
