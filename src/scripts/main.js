@@ -16,3 +16,7 @@ bespoke.from('article', [
   progress(),
   backdrop()
 ]);
+
+bespoke.from('#image', [
+  buildWars()
+]);
